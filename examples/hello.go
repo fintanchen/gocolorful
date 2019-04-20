@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println(gocolorful.Color["Green"], "hello", gocolorful.End)
-	fmt.Println(gocolorful.Color["Purple"], "World", gocolorful.End)
+	fmt.Println(gocolorful.Color["Red"], "World", gocolorful.End)
 }
