@@ -11,7 +11,7 @@ The true color you can select by run the `256-colors.go` in the examples directo
 
 ANSI-SEQUENCE map:
 
-**8 Colors: **
+**8 Colors:**
 
 |  color  |     code     |
 | :-----: | :----------: |
