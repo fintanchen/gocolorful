@@ -1,3 +1,4 @@
+// This package will print all 256 colors in terminal
 package main
 
 import (

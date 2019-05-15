@@ -2,8 +2,7 @@
 
 _A tiny colorful output library_
 
-This repository **don't** wrapper any function but provide definitions for user.
-It means that you can easy integration with other projects.
+This library provider a simple wrap of log output with level.
 
 ## Color Definitions
 
@@ -40,7 +39,7 @@ ANSI-SEQUENCE map:
 
 ## Examples
 
-Show in `exmaples` folder. It shows how to use and become more useful by wrapper the standard library.
+Show in `examples` folder. It shows how to use and become more useful by wrapper the standard library.
 
 -   Hello World
 -   256-colors.go
